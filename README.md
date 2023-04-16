@@ -63,6 +63,13 @@ Static web scraper to obtain missing data from the original dataset.
 
 Scrapes data from https://api.jikan.moe/v4/anime/, which is the official API for myanimelist.net
 
+Due to the high number of queries required to run, the code takes an extremely long time to run.
+
+In addition, the server may cut connection midway through the code running due to the high traffic volume.
+
+While we have attempted to slow down the code by pausing between queries, this tendency still persists.
+
+The code will periodically save progress made to temp.csv. If the code crashes, we can load temp.csv instead of relevant_data.csv to preserve progress from the previoud runtime.
 
 <br/>
 
