@@ -268,14 +268,17 @@ The original function used for error checking can be accessed by setting 'testin
 
 ### 6. Refrences
 
-Anime Dataset
+<br/>
+
+Anime Dataset:
 
 https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist?select=anime.csv
 
 https://api.jikan.moe/v4/anime/
 
+<br/>
 
-Clustering Algorithms
+Clustering Algorithms:
 
 https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb
 
@@ -285,7 +288,7 @@ https://www.askpython.com/python/examples/plot-k-means-clusters-python
 
 https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/notebook
 
-
+<br/>
 
 Libraries Used:
 
