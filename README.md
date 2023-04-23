@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Anime Recommendation
 
 School of Computer Science and Engineering
 
